@@ -24,10 +24,5 @@ namespace MetroD1
         {
             InitializeComponent();
         }
-
-        private void button_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("test");
-        }
     }
 }
